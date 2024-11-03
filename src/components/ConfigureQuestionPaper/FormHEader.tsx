@@ -150,7 +150,7 @@ function FormHeader() {
                 </IconButton>
               </Tooltip>
 
-              <AlertDialog url={`https://client-gfc.onrender.com/forms/${location.pathname}`} />
+              <AlertDialog url={`https://keen-babka-50ba1e.netlify.app${location.pathname}`} />
 
               <Tooltip title="More">
                 <IconButton>
