@@ -150,7 +150,7 @@ function FormHeader() {
                 </IconButton>
               </Tooltip>
 
-              <AlertDialog url={`https://localhost:3000/forms/${location.pathname}`} />
+              <AlertDialog url={`https://client-gfc.onrender.com/forms/${location.pathname}`} />
 
               <Tooltip title="More">
                 <IconButton>
